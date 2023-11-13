@@ -1,0 +1,11 @@
+Hola
+
+Soy jo, un estudiante que está intentando hacer un 
+proyecto, de la materia M12.
+
+Ahora mismo, estoy intentando subir un archivo a 
+github.
+
+Espero, que me funciona.
+
+Ara, començem.
